@@ -7,7 +7,7 @@
 
 
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e4ed12e6-407b-432e-8504-a4994d5e1c02/deploy-status)](https://app.netlify.com/sites/emolord/deploys)[![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger) [![Coverage Status](http://img.shields.io/coveralls/badges/badgerbadgerbadger.svg?style=flat-square)](https://coveralls.io/r/badges/badgerbadgerbadger) [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org) [![Donate](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat)](https://www.buymeacoffee.com/nathanaelnoir)  
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e4ed12e6-407b-432e-8504-a4994d5e1c02/deploy-status)](https://app.netlify.com/sites/emolord/deploys) [![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger) [![Coverage Status](http://img.shields.io/coveralls/badges/badgerbadgerbadger.svg?style=flat-square)](https://coveralls.io/r/badges/badgerbadgerbadger) [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org) [![Donate](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat)](https://www.buymeacoffee.com/nathanaelnoir)  
 [![Twitter Follow](https://img.shields.io/twitter/follow/nathanaelnoir.svg?style=social)](https://twitter.com/nathanaelnoir)
 
 
