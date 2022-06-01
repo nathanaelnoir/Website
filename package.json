@@ -59,7 +59,7 @@
     "react-loadable": "^5.5.0",
     "react-plotly.js": "^2.4.0",
     "react-spring": "^8.0.23",
-    "sharp": "0.25.4",
+    "sharp": "0.30.5",
     "styled-components": "^5.1.1",
     "styled-icons": "^10.6.0",
     "vscode-styled-components": "styled-components/vscode-styled-components"
