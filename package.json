@@ -29,7 +29,7 @@
     "gatsby-plugin-netlify-cache": "^1.2.0",
     "gatsby-plugin-offline": "3.2.17",
     "gatsby-plugin-react-helmet": "3.3.10",
-    "gatsby-plugin-sharp": "2.6.19",
+    "gatsby-plugin-sharp": "4.25.1",
     "gatsby-plugin-sitemap": "^2.4.11",
     "gatsby-plugin-social-banners": "^1.0.3",
     "gatsby-plugin-social-cards": "^0.5.12",
